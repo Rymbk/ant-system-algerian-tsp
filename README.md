@@ -4,7 +4,6 @@ A beautiful and interactive visualization of the Traveling Salesman Problem (TSP
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
