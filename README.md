@@ -14,9 +14,6 @@ A beautiful and interactive visualization of the Traveling Salesman Problem (TSP
 - [Algorithm Details](#algorithm-details)
 - [Project Structure](#project-structure)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## 🌟 Overview
 
