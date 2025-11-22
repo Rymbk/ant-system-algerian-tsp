@@ -147,17 +147,11 @@ algeria-tsp-aco/
 ├── algorithms/
 │   └── aco.py            # ACO implementation
 │
-├── utils/
-│   ├── distance.py       # Distance calculation utilities
-│   └── visualization.py  # Plotting functions
-│
-├── assets/
-│   ├── demo.gif          # Demo animation
-│   └── screenshot.png    # Application screenshot
-│
-└── docs/
-    ├── algorithm.md      # Detailed algorithm explanation
-    └── parameters.md     # Parameter tuning guide
+└── utils/
+    ├── distance.py       # Distance calculation utilities
+    └── visualization.py  # Plotting functions
+
+ 
 ```
 
 ## ⚙️ Configuration
